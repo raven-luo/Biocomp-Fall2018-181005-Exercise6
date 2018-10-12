@@ -6,4 +6,4 @@ output=head(filename,n=number)
 output
 
 ### Very creative! But we also wanted you to not use the head function. A way to do this would be filename[1:number,]. 
-### I took off 0.25 points for using head. 
+### I took off 0.1 points for using head. 
